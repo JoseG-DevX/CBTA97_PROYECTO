@@ -297,7 +297,7 @@
             left: 0;
             width: 100vw;
             height: 100vh;
-            background: rgba(45, 80, 22, 0.5);
+            background: rgb(22, 54, 80 , 78%);
             backdrop-filter: blur(5px);
             opacity: 0;
             visibility: hidden;
